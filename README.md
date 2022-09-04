@@ -20,8 +20,10 @@ Important links:
 2. https://www.kaggle.com/datasets/noulam/tomato
 
 Architecture diagram
+![Alt text](ArchDiagram_ImageClassification.png?raw=true "Title")
+
 
 
 Accuracy and Loss value graphs
 ![Alt text](AccVal_acc.png?raw=true "Title")
-![Alt text](AccVal_acc.png?raw=true "Title")
+![Alt text](LossVal_loss.png?raw=true "Title")
