@@ -11,3 +11,17 @@ Python based Image classification
 8. Click on the choose button and uplad a image. Sample are present in Tomato-Leaf-Disease-Prediction-master/uploads
 9. Click on Predict button.
 10. The program will print the disease name in the UI. It will also play the audio for the name of the disease
+
+
+
+Important links:
+
+1. https://github.com/krishnaik06/Tomato-Leaf-Disease-Prediction
+2. https://www.kaggle.com/datasets/noulam/tomato
+
+Architecture diagram
+
+
+Accuracy and Loss value graphs
+![Alt text](AccVal_acc.png?raw=true "Title")
+![Alt text](AccVal_acc.png?raw=true "Title")
